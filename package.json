@@ -1,0 +1,27 @@
+{
+  "name": "@react-native-swift/code-push",
+  "version": "1.2.0",
+  "description": "CodePush support for react-native-swift",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhdeck/react-native-swift-code-push.git"
+  },
+  "author": "Ray Deck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhdeck/react-native-swift-code-push/issues"
+  },
+  "homepage": "https://github.com/rhdeck/react-native-swift-code-push#readme",
+  "peerDependencies": {
+    "@react-native-swift/core": "^2.1.0",
+    "react-native-code-push": "^6.2.0"
+  },
+  "dependencies": {
+    "glob": "^7.1.6",
+    "plist": "^3.0.1"
+  }
+}
